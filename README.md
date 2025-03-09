@@ -11,17 +11,18 @@ Este é um projeto de um clone da página inicial do Santander, desenvolvido uti
 
 <h2>📸 Screenshot</h2>
 
-Adicione aqui uma captura de tela do projeto para que os visitantes possam visualizar o design.
+<img src="https://github.com/Erisson10/Projeto-Santander/blob/main/projeto%20santader.png?raw=true"/>
 
-🎯 Objetivo do Projeto
+<br>
+<h2>🎯 Objetivo do Projeto</h2>
 
 O objetivo deste projeto é aprimorar habilidades em HTML e CSS, focando em responsividade, estruturação semântica do código e estilização com CSS puro.
 
-🚀 Como Executar o Projeto
+<h2>🚀 Como Executar o Projeto</h2>
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/santander-clone.git
+git clone https://github.com/Erisson10/Projeto-Santander
 
 Acesse a pasta do projeto:
 
@@ -29,30 +30,25 @@ cd santander-clone
 
 Abra o arquivo index.html em seu navegador.
 
-📂 Estrutura do Projeto
 
-/
-├── assets/        # Imagens, ícones e outros arquivos estáticos
-├── css/           # Arquivos de estilização CSS
-├── index.html     # Estrutura principal da página
-└── README.md      # Documentação do projeto
 
-📌 Funcionalidades
+<h2>📌 Funcionalidades </h2>
+<ul>
+<li>Layout responsivo<li>
 
-Layout responsivo
+<li>Estrutura semântica em HTML5</li>
 
-Estrutura semântica em HTML5
+<li>Estilização com CSS3</li>
+</ul>
 
-Estilização com CSS3
-
-🎨 Estilização
+<h2>🎨 Estilização</h2>
 
 O projeto foi desenvolvido utilizando CSS puro, sem frameworks, priorizando boas práticas de escrita e organização do código.
 
-✍️ Autor
+<h2>✍️ Autor</h2>
 
-Desenvolvido por Seu Nome. Sinta-se à vontade para entrar em contato!
+Desenvolvido por Erisson de Oliveira. Sinta-se à vontade para entrar em contato!
 
-📜 Licença
+<h2>📜 Licença</h2>
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
